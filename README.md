@@ -61,6 +61,7 @@ public class c : MonoBehaviour
 
 ## Output:
 
-
+![Screenshot 2024-02-26 160747](https://github.com/sanjay5656/Rotating-the-Gaming-Object/assets/115128955/491ce311-c181-453e-bbde-e1af6d205e97)
 
 ## Result:
+Thus a 3D application for rotating the gaming objects in unity is developed successfully.
